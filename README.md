@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was carried out with OpenWeather's API and React-leaflet. It also includes countries API
+
+The link of this proyect is : https://trusting-wozniak-853a8c.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
